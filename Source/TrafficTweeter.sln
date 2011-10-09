@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficTweeter", "TrafficTweeter\TrafficTweeter.csproj", "{0075CB44-8B8E-403D-9452-D12774617AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficTweeter.Tests", "TrafficTweeter.Tests\TrafficTweeter.Tests.csproj", "{70F1C330-33F1-4D2B-876F-5A781CCB881E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0075CB44-8B8E-403D-9452-D12774617AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0075CB44-8B8E-403D-9452-D12774617AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0075CB44-8B8E-403D-9452-D12774617AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0075CB44-8B8E-403D-9452-D12774617AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F1C330-33F1-4D2B-876F-5A781CCB881E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F1C330-33F1-4D2B-876F-5A781CCB881E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F1C330-33F1-4D2B-876F-5A781CCB881E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F1C330-33F1-4D2B-876F-5A781CCB881E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

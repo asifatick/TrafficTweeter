@@ -1,0 +1,5 @@
+c:\documents and settings\atick\my documents\visual studio 2010\Projects\TrafficTweeter\TrafficTweeter\bin\TrafficTweeter.dll
+c:\documents and settings\atick\my documents\visual studio 2010\Projects\TrafficTweeter\TrafficTweeter\bin\TrafficTweeter.pdb
+c:\documents and settings\atick\my documents\visual studio 2010\Projects\TrafficTweeter\TrafficTweeter\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\atick\my documents\visual studio 2010\Projects\TrafficTweeter\TrafficTweeter\obj\Debug\TrafficTweeter.dll
+c:\documents and settings\atick\my documents\visual studio 2010\Projects\TrafficTweeter\TrafficTweeter\obj\Debug\TrafficTweeter.pdb
